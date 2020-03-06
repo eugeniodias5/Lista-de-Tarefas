@@ -1,0 +1,15 @@
+body{
+    font: "Times New Roman", Times, serif;
+}
+
+a{
+    cursor: pointer;
+}
+
+.active{
+    color: black !important;
+    background-color: white !important;
+    border: 2px solid lightgreen !important;
+    border-left: 10px solid lightgreen !important;
+    cursor: default !important;
+}
